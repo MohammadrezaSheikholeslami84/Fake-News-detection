@@ -1,7 +1,3 @@
-To include the accuracy of your model in the README, you can add a section that highlights the model's performance. Here's an updated version of the description with an example of including accuracy:
-
----
-
 # Fake News Detection
 
 ## Description
